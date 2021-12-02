@@ -1,0 +1,11 @@
+body {
+background-color: dodgerblue;
+}
+
+a {
+font-size-adjust: 40px;}
+#navbar {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
